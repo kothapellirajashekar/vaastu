@@ -1,2 +1,2 @@
 # vaastu
-related to vasstu website 
+related to vasstu website for clients
